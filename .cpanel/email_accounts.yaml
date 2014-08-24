@@ -1,0 +1,11 @@
+--- 
+__version: '2.1'
+desportsweekend.com: 
+  account_count: 1
+  accounts: 
+    studentmedia: 
+      disk_mtime: '1408663868'
+      diskquota: 262144000
+      diskused: 0
+  passwd_mtime: '1408919201'
+  quota_mtime: '1408919201'

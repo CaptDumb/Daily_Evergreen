@@ -1,0 +1,1 @@
+{"mode":"simple","timeout":0,"version":"2.3","statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","exit_code":0,"action":"fetch","data":[{"homedir":"/home/wsustudentmedia","user":"wsustudentmedia","type":"main"},{"homedir":"/usr/local/apache/domlogs/wsustudentmedia","user":"wsustudentmedia_logs","type":"logaccess"}],"error":0,"status":1}
