@@ -243,6 +243,8 @@ main {
 		color: #ffffff;
 		text-align: justify; 
 		font-size: 17px; 
+		font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+		font-size: 18px;
 	}
 	.hsContent2 a {
 		color: #b2b2b2;
@@ -447,4 +449,9 @@ main {
 	a.menu:link {color:#fff; text-decoration:none;}
 	a.menu:visited {color:#fff; text-decoration:none;}
 	a.menu:hover {color:#7F7F7F; text-decoration:none;}
+	
+	br {
+   display: block;
+   margin: 10px 0;
+}
 }
