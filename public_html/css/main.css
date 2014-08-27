@@ -238,11 +238,10 @@ main {
 		font-family: "georgia"; 
 	}
 	.hsContent2 p {
-		width: 500px;
+		width: 1000px;
 		margin: 0 auto;
-		color: #ffffff;
-		text-align: justify; 
-		font-size: 17px; 
+		color: #b2b2b2;
+		text-align:justify;
 		font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 		font-size: 18px;
 	}
